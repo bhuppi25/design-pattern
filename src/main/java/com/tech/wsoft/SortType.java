@@ -1,0 +1,6 @@
+package com.tech.wsoft;
+
+public enum SortType {
+    MERGE_SORT, BUBBLE_SORT, SELECTION_SORT, HEAP_SORT,
+    BINARY_SORT, QUICK_SORT, INSERTION_SORT, RADIX_SORT
+}
